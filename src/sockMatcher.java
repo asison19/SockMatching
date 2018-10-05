@@ -29,7 +29,6 @@ public class sockMatcher{
 			sockMaker3.join();
 			
 			matcher.start();
-			System.out.println(storage.redSocks);
 			} catch(InterruptedException ie) {
 				
 			}
